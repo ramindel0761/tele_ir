@@ -1,4 +1,4 @@
-# [BDReborn V6 (Final Version)](https://telegram.me/BDReborn)
+# [delete V6 (Final Version)](https://github.com/ramindel0761/tele_ir)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -22,50 +22,27 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git
-cd BDReborn
+git clone https://github.com/ramindel0761/tele_ir.git
+cd tele_ir
 chmod +x beyond.sh
-./beyond.sh install
-./beyond.sh 
+./delete.sh install
+./delete.sh 
 # Enter a phone number & confirmation code.
 
 # For Auto Launch:
-cd BDReborn
+cd tele_ir
 chmod 777 autobd.sh
 screen ./autobd.sh
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/ramindel0761/tele_ir.git && cd tele_ir && chmod +x delete.sh && ./delete.sh install && ./delete.sh
 
 OR
 
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && chmod 777 autobd.sh && screen ./autobd.sh
+cd $HOME && git clone https://github.com/ramindel0761/tele_ir.git && cd tele_ir && chmod +x delete.sh && ./delete.sh install && chmod 777 autodel.sh && screen ./autodel.sh
 ```
 
-* * *
-
-# Support and Development
-
-More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HTjezV4syUSA)
-
-# Special thanks to
-[@MrHalix](https://github.com/MrHalix)
-
-[@Vysheng](https://github.com/vysheng)
-
-* * *
-
-# Developers!
-
-[SoLiD](https://github.com/solid021) ([Telegram](https://telegram.me/SoLiD))
-
-[To0fan](https://github.com/To0fan) ([Telegram](https://telegram.me/ToOfan))
-
-[MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
 
 
-### Our Telegram channel:
-
-[@BeyondTeam](https://telegram.me/BeyondTeam)
