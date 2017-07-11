@@ -24,7 +24,7 @@
 cd $HOME
 git clone https://github.com/ramindel0761/tele_ir.git
 cd tele_ir
-chmod +x beyond.sh
+chmod +x delete.sh
 ./delete.sh install
 ./delete.sh 
 # Enter a phone number & confirmation code.
